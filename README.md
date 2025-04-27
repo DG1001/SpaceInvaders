@@ -2,7 +2,7 @@
 
 A TypeScript implementation of the classic Space Invaders arcade game using HTML5 Canvas.
 
-![Game Screenshot](screen.png)
+![Game Screenshot](screen.gif)
 
 ## Features
 
